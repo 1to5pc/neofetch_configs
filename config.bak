@@ -14,8 +14,8 @@ prin "\n \n \n \n \n ${cl0} \n \n ${cl7} \n \n ${cl1} \n \n ${cl4}  
     info " ​ ​ 🗘 " cpu
     info " ​ ​ ﬙ " gpu
 #    info " ​ ​  " disk
-    info " ​ ​ 🗗 " memory
-    info " ​ ​ 🖵 " resolution
+    info " ​ ​ 🗐 " memory
+    info " ​ ​ 🗗 " resolution
 #    info " ​ ​ 󱈑 " battery 
     prin "├─────────\n Software Information \n─────────┤"
     info " ​ ​  🗓 " uptime
